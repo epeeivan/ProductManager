@@ -1,0 +1,15 @@
+/home/beis/Documents/school/c#_projects/ProductManager/obj/Debug/net6.0/ProductManager.csproj.AssemblyReference.cache
+/home/beis/Documents/school/c#_projects/ProductManager/obj/Debug/net6.0/ProductManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/beis/Documents/school/c#_projects/ProductManager/obj/Debug/net6.0/ProductManager.AssemblyInfoInputs.cache
+/home/beis/Documents/school/c#_projects/ProductManager/obj/Debug/net6.0/ProductManager.AssemblyInfo.cs
+/home/beis/Documents/school/c#_projects/ProductManager/obj/Debug/net6.0/ProductManager.csproj.CoreCompileInputs.cache
+/home/beis/Documents/school/c#_projects/ProductManager/bin/Debug/net6.0/ProductManager
+/home/beis/Documents/school/c#_projects/ProductManager/bin/Debug/net6.0/ProductManager.deps.json
+/home/beis/Documents/school/c#_projects/ProductManager/bin/Debug/net6.0/ProductManager.runtimeconfig.json
+/home/beis/Documents/school/c#_projects/ProductManager/bin/Debug/net6.0/ProductManager.dll
+/home/beis/Documents/school/c#_projects/ProductManager/bin/Debug/net6.0/ProductManager.pdb
+/home/beis/Documents/school/c#_projects/ProductManager/obj/Debug/net6.0/ProductManager.dll
+/home/beis/Documents/school/c#_projects/ProductManager/obj/Debug/net6.0/refint/ProductManager.dll
+/home/beis/Documents/school/c#_projects/ProductManager/obj/Debug/net6.0/ProductManager.pdb
+/home/beis/Documents/school/c#_projects/ProductManager/obj/Debug/net6.0/ProductManager.genruntimeconfig.cache
+/home/beis/Documents/school/c#_projects/ProductManager/obj/Debug/net6.0/ref/ProductManager.dll

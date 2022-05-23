@@ -1,0 +1,9 @@
+1:Honey:270:available
+2:Soap:90:available
+3:car:1:supply
+4:tables:13:available
+5:fox:3:supply
+6:book:55:available
+7:clock:0:breakdown
+8:cup:5:supply
+9:glass:0:breakdown
